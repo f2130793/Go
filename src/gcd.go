@@ -11,7 +11,7 @@ func gcd(x, y int) int {
 }
 
 func main() {
-	ret := gcd(16, 20)
+	ret := gcd(161, 322)
 	fmt.Println(ret)
 }
 
